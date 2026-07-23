@@ -36,16 +36,11 @@ This portfolio is designed to provide an engaging user experience while highligh
 ```
 Portfolio/
 │
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── fonts/
-│
-├── css/
-├── js/
+├── img / images
+├── styles / css
+├── app.js
 ├── index.html
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ---
